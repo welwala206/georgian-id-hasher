@@ -6,10 +6,10 @@ doi: "10.5281/zenodo.1234567"  # Replace with actual DOI if available (Zenodo in
 authors:
   - family-names: Natsvlishvili
     given-names: Irakli
-    affiliation: Yale University
+    affiliation: Ilia State University
 date-released: 2025-07-01
-url: https://github.com/welwala206/georgian_id_hasher
-repository-code: https://github.com/welwala206/georgian_id_hasher
+url: https://github.com/welwala206/georgian-id-hasher
+repository-code: https://github.com/welwala206/georgian-id-hasher
 license: CC-BY-NC-SA-4.0
 keywords:
   - hashing
